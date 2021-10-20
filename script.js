@@ -26,6 +26,7 @@ const errorYear = document.querySelector('#error-year')
 // Remove the error when typing
 loanAmount.onkeyup = () => {
     error.style.display = 'none'
+    resultSection.style.display = 'none'
     console.log('this')
 }
 
