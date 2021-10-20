@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins';
+}
+
+* {
+    color: #fff;
+    box-sizing: border-box;
+    /* font-size: 13px; */
+}
+
+.loader-wrapper {
+    display: flex;
+    justify-self: center;
+}
+
+.invalid {
+    border: 1px solid red;
+}
+
+.result-section, .loading-img {
+    display: none;
+}
+
+.error-page {
+    background-color: red;
+    text-align: center;
+    display: none;
+}
+
+.error-occur {
+    font-size: 12px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 10px;
+}
