@@ -33,3 +33,14 @@ body {
     margin-bottom: auto;
     padding: 10px;
 }
+
+/* #card-wrapper {
+    width: 40%;
+}
+
+@media screen and  (max-width: 1005px) {
+    #card-wrapper {
+        width: 80%;
+        font-size: 12px;
+    }
+} */
