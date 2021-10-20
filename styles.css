@@ -5,7 +5,7 @@ body {
 * {
     color: #fff;
     box-sizing: border-box;
-    /* font-size: 13px; */
+    font-size: 12px;
 }
 
 .loader-wrapper {
@@ -34,13 +34,13 @@ body {
     padding: 10px;
 }
 
-/* #card-wrapper {
-    width: 40%;
+#card-wrapper {
+    width: 37%;
 }
 
-@media screen and  (max-width: 1005px) {
+@media screen and  (max-width: 900px) {
     #card-wrapper {
         width: 80%;
         font-size: 12px;
     }
-} */
+}
